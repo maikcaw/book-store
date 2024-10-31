@@ -9,6 +9,10 @@ export default {
         background: "#f3f3f3",
         favourite: "#ff5841",
       },
+      fontFamily: {
+        primary: ["Montserrat", "sans-serif"],
+        secondary: ["Nunito Sans, sans-serif"],
+      },
     },
   },
   plugins: [],
